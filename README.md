@@ -1,4 +1,7 @@
 # HealthifyLife_Medical_Chatbot
+
+[HealthifyLife.pptx](https://github.com/priyansh17/HealthifyLife_Medical_Chatbot/files/9580786/HealthifyLife.pptx)
+
 Healthcare is more crucial to begin a good life. However, obtaining a doctor's
 consultation in the event of a health problem is quite difficult. The proposed concept is to
 use Artificial Intelligence to construct a health care chatbot system that can diagnose
